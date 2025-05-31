@@ -1,0 +1,39 @@
+.intro {
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sy_1 {
+    background: #f3f3f3;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sy_1_title {
+    margin-top: 0px;
+}
+
+.sy_1_info {
+    font-size: 18px;
+    font-family: '宋体';
+}
+
+.sy_name {
+    font-size: 22px;
+    font-family: '仿宋';
+    color: #647ffe;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.sy_2_info {
+    font-size: 18px;
+    font-family: '宋体';
+    margin-top: 0px;
+}
