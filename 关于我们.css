@@ -1,0 +1,132 @@
+.research {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sy_1 {
+    background: #f3f3f3;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sy_1_title {
+    margin-top: 0px;
+}
+
+.image-kyhj1 {
+    display: flex;
+    /* 启用 Flexbox */
+    justify-content: space-between;
+    /* 均匀分布 */
+    gap: 30px;
+    /* 图片间距 */
+    padding: 20px;
+}
+
+.image-item-kyhj {
+    flex: 1;
+    /* 等分宽度 */
+    text-align: center;
+    /* 文字居中 */
+    min-width: 0;
+    /* 防止内容溢出 */
+}
+
+.image-item-kyhj img {
+    width: 100%;
+    /* 图片宽度填满容器 */
+    height: 335.33px;
+    /* 高度自适应 */
+    border-radius: 8px;
+    /* 可选：圆角 */
+    object-fit: cover;
+    /* 可选：裁剪适应 */
+}
+
+.image-kyhj2 {
+    display: flex;
+    /* 启用 Flexbox */
+    justify-content: space-between;
+    /* 均匀分布 */
+    gap: 100px;
+    /* 图片间距 */
+    padding: 40px;
+}
+
+.image-item-kyhj-1 {
+    flex: 1;
+    /* 等分宽度 */
+    text-align: center;
+    /* 文字居中 */
+    min-width: 0;
+    /* 防止内容溢出 */
+}
+
+.image-item-kyhj-1 img {
+    width: 100%;
+    /* 图片宽度填满容器 */
+    height: 318.56px;
+    /* 高度自适应 */
+    border-radius: 8px;
+    /* 可选：圆角 */
+    object-fit: cover;
+    /* 可选：裁剪适应 */
+}
+
+.image-caption-kyhj {
+    margin-top: 5px;
+    /* 描述文字上边距 */
+    font-size: 16px;
+    font-family: '宋体';
+}
+
+.image-item-kyhj-2 {
+    flex: 1;
+    /* 等分宽度 */
+    text-align: center;
+    /* 文字居中 */
+    min-width: 0;
+    /* 防止内容溢出 */
+}
+
+.image-item-kyhj-2 img {
+    width: 100%;
+    /* 图片宽度填满容器 */
+    height: 259px;
+    /* 高度自适应 */
+    border-radius: 8px;
+    /* 可选：圆角 */
+    object-fit: cover;
+    /* 可选：裁剪适应 */
+}
+
+.image-item-kyhj-3 {
+    flex: 1;
+    /* 等分宽度 */
+    text-align: center;
+    /* 文字居中 */
+    min-width: 0;
+    /* 防止内容溢出 */
+}
+
+.image-item-kyhj-3 img {
+    width: 345.55px;
+    /* 图片宽度填满容器 */
+    height: 259px;
+    /* 高度自适应 */
+    border-radius: 8px;
+    /* 可选：圆角 */
+    object-fit: cover;
+    /* 可选：裁剪适应 */
+}
+
+.call {
+    font-size: 18px;
+    font-family: '仿宋';
+    font-weight: bold;
+}
